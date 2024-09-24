@@ -13,7 +13,7 @@ configuration {
 * {
     font: "JetBrainsMono Nerd Font Medium 12";
     background:     #21284085;
-    background-alt: #1E1E2EFF;
+    background-alt: #1E1E2EC0;
     foreground:     #FFFFFFFF;
     selected:       #61AFEFFF;
     active:         #98C379FF;
@@ -83,7 +83,7 @@ textbox-prompt-colon {
 }
 entry {
     enabled:                     true;
-    background-color:            inherit;
+    background-color:            transparent;
     text-color:                  inherit;
     cursor:                      text;
     placeholder:                 "Search...";
